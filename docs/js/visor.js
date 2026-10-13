@@ -671,10 +671,27 @@ async function iniciarVisor() {
             ctx.strokeRect(x,y,b.width,b.height)
           }
         }
-        let card=null;
-        if(withCard)card=await html2canvas($('detail'),{
-          scale:2,useCORS:true,backgroundColor:getComputedStyle($('detail')).backgroundColor,logging:false
-        });
+        let card = null;
+        if (withCard) {
+          const detailEl = $('detail');
+          const originalScrollTop = detailEl.scrollTop;
+          const originalOverflow = detailEl.style.overflow;
+          const originalHeight = detailEl.style.height;
+          detailEl.scrollTop = 0;
+          detailEl.style.overflow = 'visible';
+          detailEl.style.height = 'max-content';
+          card = await html2canvas(detailEl, {
+            scale: 2,
+            useCORS: true,
+            backgroundColor: getComputedStyle(detailEl).backgroundColor,
+            logging: false,
+            scrollY: -window.scrollY,
+            scrollX: -window.scrollX
+          });
+          detailEl.style.overflow = originalOverflow;
+          detailEl.style.height = originalHeight;
+          detailEl.scrollTop = originalScrollTop;
+        }
         const canvas=document.createElement('canvas');
         canvas.width=chart.width+(card?card.width:0);
         const c=canvas.getContext('2d'),padding=28,textWidth=canvas.width-padding*2;
