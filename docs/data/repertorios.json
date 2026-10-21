@@ -60,7 +60,7 @@
           "Reconstrucción del equivalente árabe": "أفريقيا / Afrīqiyā",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Africa tercera parte dela tierra: Africa, ae\nAfrica contra España: Mauritania, ae\nAfrica contra Italia: Numidia, ae\nAfrica en griego: Libya, ae\nAfrica la desierta: Xerolibya, ae\nafricano ombre de Africa: libs, libys\nafricana muger de Africa: libyssa, ae\nafricana cosa de Africa: lybicus, a, um\nafricana cosa de Africa con anima: afer, a, um\nafricana cosa desta manera: poenus, a, um \nafricana cosa sin anima: punicus, a, um\nAfricano vencedor de Africa: Africanus, i\n(p. 7)",
           "Gentilicios": "africano: afriquǐ, ǐn / afrīqiyy, -īn\nafricana: afriquǐa / afrīqiyya\nafricana cosa: xěi afriquǐ, axiǐt afriquiǐn / šayʾ afrīqiyy, ašyāʾ afrīqiyyīn",
-          "Vocalización y variantes en fuentes árabes": "Ifrīqiyā (al-Idrīsī, <i>Nuzhat al-muštāq</i>, II, 977; al-Istibṣār, I, 147; Ibn Saʿīd al-Maġribī, al-Ğuġrāfiyā, I, 36; al-Ḏāhabī, Tārīḫ al-islām, XI, 20, 401, 402, XII, 88, 180, 219, 304, XIV, 443, XVI, 266, 267, 421, XXIX, 498, 35, 400, XLIII, 173; Ibn Baṭṭūṭa, Riḥlat, I, 11, 78, 88, 96, 126, 131, 145, Ibn Ḫaldūn, <i>al-ʿIbar</i>, I, 28, 283; al-Maqrīzī, al-Mawāʿiẓ, I, 4; Ibn Tagrī Bardī, al-Nuğūm al-zāhira, 1; al-Maqqarī, <i>Nafḥ al-ṭīb</i>, V, 216; Ḥāğğī Ḫalīfa, Sullam al-wuṣūl, 23, I, 420)\n\nAfrīqiyā (al-Yaʿqūbī, al-Buldān, I, 197; Ibn Faḍl Allāh al-ʿUmarī, Masālik al-abṣār, V, 19, 77, IX, 9; Ḥāğğī Ḫalīfa, Sullam al-wuṣūl, I, 396, V, 268)\n"
+          "Vocalización y variantes en fuentes árabes": "Ifrīqiyā (al-Idrīsī, <i>Nuzhat al-muštāq</i>, II, 977; al-Istibṣār, I, 147; Ibn Saʿīd al-Maġribī, al-Ğuġrāfiyā, I, 36; al-Ḏāhabī, <i>Tārīḫ al-islām</i>, XI, 20, 401, 402, XII, 88, 180, 219, 304, XIV, 443, XVI, 266, 267, 421, XXIX, 498, 35, 400, XLIII, 173; Ibn Baṭṭūṭa, Riḥlat, I, 11, 78, 88, 96, 126, 131, 145, Ibn Ḫaldūn, <i>al-ʿIbar</i>, I, 28, 283; al-Maqrīzī, al-Mawāʿiẓ, I, 4; Ibn Tagrī Bardī, <i>al-Nuğūm al-zāhira</i>, 1; al-Maqqarī, <i>Nafḥ al-ṭīb</i>, V, 216; Ḥāğğī Ḫalīfa, <i>Sullam al-wuṣūl</i>, 23, I, 420)\n\n<i>Afrīqiyā</i> (al-Yaʿqūbī, <i>al-Buldān</i>, I, 197; Ibn Faḍl Allāh al-ʿUmarī, <i>Masālik al-abṣār</i>, V, 19, 77, IX, 9; Ḥāğğī Ḫalīfa, <i>Sullam al-wuṣūl</i>, I, 396, V, 268)\n"
         },
         "cart": {
           "Coordenadas": "Longitud: 21.09375; latitud: 7.1881"
@@ -76,9 +76,9 @@
           41.380778
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "ألبانيا / Albāniyā",
+          "Árabe reconstruido / transcripción reconstruida": "ألبانيا / <i>Albāniyā</i>",
           "Árabe reconstruido": "ألبانيا",
-          "Transcripción reconstruida": "Albāniyā",
+          "Transcripción reconstruida": "<i>Albāniyā</i>",
           "Nombre en la fuente / equivalente": "Albania Region",
           "Transcripción original": "Albǎnia",
           "Nombre actual / identificación": "Albania"
@@ -88,11 +88,11 @@
         "phil": {
           "Transcripción original": "Albǎnia",
           "Nombre en la fuente": "Albania Region",
-          "Reconstrucción del equivalente árabe": "ألبانيا / Albāniyā",
+          "Reconstrucción del equivalente árabe": "ألبانيا / <i>Albāniyā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Albania region oriental: Albania, ae\nAlbania en frente de Italia: Epirus, i\nAlbanos pueblos de alli: albanus, a, um\nAlbaneses pueblos de alli: epiroticus, a, um\n(p. 10)",
-          "Gentilicios": "albano de alli [Albania]: albǎni, albaniǐn / albāniyy, -īn\nalbañeç de alli [Albania Region]: albǎni, albaniǐn / albāniyy, -īn",
-          "Nota / Información": "Utilizamos las coordenadas de Pleiades, las únicas válidas para esta representación, ya que las de AWGS y OSM, dada la diferencia respecto a la actualidad, resultan anácronicas.",
-          "Vocalización y variantes en fuentes árabes": "Albāniyā (al-Ḏāhabī, Tārīḫ al-islām, XXXVI, 209)\nWilāyat Arnawʾūd (Ḥāğğī Ḫalīfa, Sullam al-wuṣūl, II, 154)\nBilād Arnaʾūd (Ḥāğğī Ḫalīfa, Sullam al-wuṣūl, I, 162)\nQabīlat Arnaʾūṭ (Ibn Tagrī Bardī, al-Nuğūm al-zāhira, XVI, 376)"
+          "Gentilicios": "albano de alli [Albania]: albǎni, albaniǐn / <i>albāniyy</i>, <i>-īn</i>\nalbañeç de alli [Albania Region]: albǎni, albaniǐn / <i>albāniyy</i>, <i>-īn</i>",
+          "Nota / Información": "Utilizamos las coordenadas de <i>Pleiades</i>, las únicas válidas para esta representación, ya que las de <i>AWGS</i> y <i>OSM</i>, dada la diferencia respecto a la actualidad, resultan anácronicas.",
+          "Vocalización y variantes en fuentes árabes": "<i>Albāniyā</i> (al-Ḏāhabī, <i>Tārīḫ al-islām</i>, XXXVI, 209)\n<i>Wilāyat Arnawʾūd</i> (Ḥāğğī Ḫalīfa, <i>Sullam al-wuṣūl</i>, II, 154)\nBilād Arnaʾūd (Ḥāğğī Ḫalīfa, <i>Sullam al-wuṣūl</i>, I, 162)\n<i>Qabīlat Arnaʾūṭ</i> (Ibn Tagrī Bardī, <i>al-Nuğūm al-zāhira</i>, XVI, 376)"
         },
         "cart": {
           "Coordenadas": "Longitud: 48.158285; latitud: 41.380778"
@@ -108,9 +108,9 @@
           39.19492
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [5] / Alqalā [5]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [5] / <i>Alqalā</i> [5]",
           "Árabe reconstruido": "القلا [5]",
-          "Transcripción reconstruida": "Alqalā [5]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [5]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [5]",
           "Nombre actual / identificación": "Alcalá (Alcalá del Júcar, Albacete)"
@@ -120,10 +120,10 @@
         "phil": {
           "Transcripción original": "Alcala [5]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete (Alcalá del Júcar), Cádiz (Alcalá de los Gazules), Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)."
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete (Alcalá del Júcar), Cádiz (Alcalá de los Gazules), Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)."
         },
         "cart": {
           "Coordenadas": "Longitud: -1.42863; latitud: 39.19492"
@@ -139,7 +139,7 @@
           36.533626
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [4] / Alqalā [4]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [4] / <i>Alqalā</i> [4]",
           "Árabe reconstruido": "القلا [4]",
           "Transcripción reconstruida": "Alqalā [4]",
           "Nombre en la fuente / equivalente": "Alcala",
@@ -151,10 +151,10 @@
         "phil": {
           "Transcripción original": "Alcala [4]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -5.78593; latitud: 36.533626"
@@ -170,9 +170,9 @@
           40.3
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [6] / Alqalā [6]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [6] / <i>Alqalā</i> [6]",
           "Árabe reconstruido": "القلا [6]",
-          "Transcripción reconstruida": "Alqalā [6]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [6]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [6]",
           "Nombre actual / identificación": "Alcalá (Alcalá de Chivert, Castellón)"
@@ -182,10 +182,10 @@
         "phil": {
           "Transcripción original": "Alcala [6]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: 0.23333; latitud: 40.3"
@@ -201,9 +201,9 @@
           40.02594
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [8] / Alqalā [8]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [8] / <i>Alqalā</i> [8]",
           "Árabe reconstruido": "القلا [8]",
-          "Transcripción reconstruida": "Alqalā [8]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [8]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [8]",
           "Nombre actual / identificación": "Alcalá (Alcalá de la Vega, Cuenca)"
@@ -213,10 +213,10 @@
         "phil": {
           "Transcripción original": "Alcala [8]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy<i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -1.52561; latitud: 40.02594"
@@ -232,9 +232,9 @@
           42.06776
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [9] / Alqalā [9]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [9] / <i>Alqalā</i> [9]",
           "Árabe reconstruido": "القلا [9]",
-          "Transcripción reconstruida": "Alqalā [9]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [9]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [9]",
           "Nombre actual / identificación": "Alcalá (Alcalá de Gurrea, Huesca)"
@@ -244,10 +244,10 @@
         "phil": {
           "Transcripción original": "Alcala [9]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -0.68528; latitud: 42.06776"
@@ -263,9 +263,9 @@
           37.46541
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [2] / Alqalā [2]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [2] / <i>Alqalā</i> [2]",
           "Árabe reconstruido": "القلا [2]",
-          "Transcripción reconstruida": "Alqalā [2]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [2]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [2]",
           "Nombre actual / identificación": "Alcalá (Alcalá la Real, Jaén)"
@@ -275,10 +275,10 @@
         "phil": {
           "Transcripción original": "Alcala [2]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -3.92538; latitud: 37.46541"
@@ -294,9 +294,9 @@
           40.48068
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [1] / Alqalā [1]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [1] / <i>Alqalā</i> [1]",
           "Árabe reconstruido": "القلا [1]",
-          "Transcripción reconstruida": "Alqalā [1]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [1]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [1]",
           "Nombre actual / identificación": "Alcalá (Alcalá de Henares, Madrid)"
@@ -306,10 +306,10 @@
         "phil": {
           "Transcripción original": "Alcala [1]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -3.37342; latitud: 40.48068"
@@ -325,9 +325,9 @@
           37.33977
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [3] / Alqalā [3]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [3] / <i>Alqalā</i> [3]",
           "Árabe reconstruido": "القلا [3]",
-          "Transcripción reconstruida": "Alqalā [3]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [3]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [3]",
           "Nombre actual / identificación": "Alcalá (Alcalá de Guadaíra, Sevilla, Andalucía, ESP, Sevilla)"
@@ -337,10 +337,10 @@
         "phil": {
           "Transcripción original": "Alcala [3]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -5.840839; latitud: 37.33977"
@@ -356,9 +356,9 @@
           37.518215
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [7] / Alqalā [7]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [7] / <i>Alqalā</i> [7]",
           "Árabe reconstruido": "القلا [7]",
-          "Transcripción reconstruida": "Alqalā [7]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [7]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [7]",
           "Nombre actual / identificación": "Alcalá (Alcalá del Río, Sevilla)"
@@ -368,10 +368,10 @@
         "phil": {
           "Transcripción original": "Alcala [7]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -5.978254; latitud: 37.518215"
@@ -387,9 +387,9 @@
           40.3709
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [10] / Alqalā [10]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [10] / <i>Alqalā</i> [10]",
           "Árabe reconstruido": "القلا [10]",
-          "Transcripción reconstruida": "Alqalā [10]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [10]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [10]",
           "Nombre actual / identificación": "Alcalá (Alcalá de la Selva, Teruel)"
@@ -399,10 +399,10 @@
         "phil": {
           "Transcripción original": "Alcala [10]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -0.71806; latitud: 40.3709"
@@ -418,9 +418,9 @@
           41.81484
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [12] / Alqalā [12]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [12] / <i>Alqalā</i> [12]",
           "Árabe reconstruido": "القلا [12]",
-          "Transcripción reconstruida": "Alqalā [12]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [12]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [12]",
           "Nombre actual / identificación": "Alcalá (Alcalá de Ebro, Zaragoza)"
@@ -430,10 +430,10 @@
         "phil": {
           "Transcripción original": "Alcala [12]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -1.19552; latitud: 41.81484"
@@ -449,9 +449,9 @@
           41.78614
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "القلا [11] / Alqalā [11]",
+          "Árabe reconstruido / transcripción reconstruida": "القلا [11] / <i>Alqalā</i> [11]",
           "Árabe reconstruido": "القلا [11]",
-          "Transcripción reconstruida": "Alqalā [11]",
+          "Transcripción reconstruida": "<i>Alqalā</i> [11]",
           "Nombre en la fuente / equivalente": "Alcala",
           "Transcripción original": "Alcala [11]",
           "Nombre actual / identificación": "Alcalá (Alcalá de Moncayo, Zaragoza)"
@@ -461,10 +461,10 @@
         "phil": {
           "Transcripción original": "Alcala [11]",
           "Nombre en la fuente": "Alcala",
-          "Reconstrucción del equivalente árabe": "القلا / Alqalā",
+          "Reconstrucción del equivalente árabe": "القلا / <i>Alqalā</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
-          "Gentilicios": "Alcalǎy / al-qalaʿiyy",
-          "Nota / Información": "Existen numerosas localizaciones con este nombre de al-Qalʿa ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, Contribución a la toponimia árabe de España, p. 51)"
+          "Gentilicios": "Alcalǎy / <i>al-qalaʿiyy</i>",
+          "Nota / Información": "Existen numerosas localizaciones con este nombre de <i>al-Qalʿa</i> ('el castillo'): Albacete, Cádiz, Castellón, Cuenca, Huesca, Jaén, Madrid, Sevilla, Teruel, Zaragoza (Asín Palacios, <i>Contribución a la toponimia árabe de España</i>, p. 51)"
         },
         "cart": {
           "Coordenadas": "Longitud: -1.69561; latitud: 41.78614"
@@ -480,9 +480,9 @@
           31.201435
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "إسكندريّة / Iskandariyya",
+          "Árabe reconstruido / transcripción reconstruida": "إسكندريّة / <i>Iskandariyya</i>",
           "Árabe reconstruido": "إسكندريّة",
-          "Transcripción reconstruida": "Iskandariyya",
+          "Transcripción reconstruida": "<i>Iskandariyya</i>",
           "Nombre en la fuente / equivalente": "Alexa[n]dria cibdad",
           "Transcripción original": "Yzcandarǐa",
           "Nombre actual / identificación": "Alejandría"
@@ -492,11 +492,11 @@
         "phil": {
           "Transcripción original": "Yzcandarǐa",
           "Nombre en la fuente": "Alexa[n]dria cibdad",
-          "Reconstrucción del equivalente árabe": "إسكندريّة / Iskandariyya",
+          "Reconstrucción del equivalente árabe": "إسكندريّة / <i>Iskandariyya</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Alexandria ciudad: Alexandria, ae\n(p. 11)",
-          "Gentilicios": "alexandrino: yzcandarǐ, ǐn / iskandariyy, -īn",
-          "Nota / Información": "Utilizamos las coordenadas que figuran en Pleiades, en todo caso muy próximas a las de las demás opciones consultadas.",
-          "Vocalización y variantes en fuentes árabes": "Iskandariyya (Ibn Ḫurradāḏbih, 114/117/229; al-Wāqidī, II, 61/65-69/72/75/77-78/81/224; Ibn Ḥawqal, I, 165; al-Bakrī, I, 301; Al-istibṣār…, I, 231; Binyāmīn al-tuṭīlī, 353/355-357/359; Yāqūt, I, 183, III, 126/269; Ṣafī al-Dīn al-Baġdādī, II, 748/778, III, 1251/1253; Ibn Faḍl Allāh al-ʿUmarī, III, 495/532, IV, 183, XXII, 270, XXVII, 561; Ibn Baṭṭūṭa, I, 191, II, 161; al-Maqrīzī, I, 242/294/302, II, 299, IV, 397/402/406/434; al-Ḥimyarī, 54) "
+          "Gentilicios": "alexandrino: yzcandarǐ, ǐn / <i>iskandariyy</i>, <i>-īn</i>",
+          "Nota / Información": "Utilizamos las coordenadas que figuran en <i>Pleiades</i>, en todo caso muy próximas a las de las demás opciones consultadas.",
+          "Vocalización y variantes en fuentes árabes": "<i>Iskandariyya</i> (Ibn Ḫurradāḏbih, 114/117/229; al-Wāqidī, II, 61/65-69/72/75/77-78/81/224; Ibn Ḥawqal, I, 165; al-Bakrī, I, 301; <i>Al-istibṣār…</i>, I, 231; Binyāmīn al-tuṭīlī, 353/355-357/359; Yāqūt, I, 183, III, 126/269; Ṣafī al-Dīn al-Baġdādī, II, 748/778, III, 1251/1253; Ibn Faḍl Allāh al-ʿUmarī, III, 495/532, IV, 183, XXII, 270, XXVII, 561; Ibn Baṭṭūṭa, I, 191, II, 161; al-Maqrīzī, I, 242/294/302, II, 299, IV, 397/402/406/434; al-Ḥimyarī, 54) "
         },
         "cart": {
           "Coordenadas": "Longitud: 29.909773; latitud: 31.201435"
@@ -512,9 +512,9 @@
           51.163818
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "ألمانيا / Alīmān",
+          "Árabe reconstruido / transcripción reconstruida": "ألمانيا / <i>Alīmān</i>",
           "Árabe reconstruido": "ألمانيا",
-          "Transcripción reconstruida": "Alīmān",
+          "Transcripción reconstruida": "<i>Alīmān</i>",
           "Nombre en la fuente / equivalente": "Alemaña",
           "Transcripción original": "Aliemǎn ",
           "Nombre actual / identificación": "Alemania"
@@ -524,10 +524,10 @@
         "phil": {
           "Transcripción original": "Aliemǎn ",
           "Nombre en la fuente": "Alemaña",
-          "Reconstrucción del equivalente árabe": "ألمانيا / Alīmān",
+          "Reconstrucción del equivalente árabe": "ألمانيا / <i>Alīmān</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Alemaña region de Europa: Germania, ae\nAlemanes pueblos de alli: Germanus, a, um\nAlemaña la alta: Germania superior\nAlemaña la baja: Germania inferior\ntudesco o aleman: teuto, onis\n(pp. 11 y 194)",
-          "Gentilicios": "alemañes: alemǎni, ǐn / alamāniyy, -īn",
-          "Vocalización y variantes en fuentes árabes": "Almāniyā (Ibn Faḍl Allāh al-ʿUmarī, )"
+          "Gentilicios": "alemañes: alemǎni, ǐn / <i>alamāniyy</i>, <i>-īn</i>",
+          "Vocalización y variantes en fuentes árabes": "<i>Almāniyā</i> (Ibn Faḍl Allāh al-ʿUmarī)"
         },
         "cart": {
           "Coordenadas": "Longitud: 10.447831; latitud: 51.163818"
@@ -902,7 +902,7 @@
           "Nombre en la fuente": "Arabia region",
           "Reconstrucción del equivalente árabe": "عربيّة / ʿArabiyya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Arabia region de Asia: Arabia, ae\nArabia la desierta: Arabia deserta\nArabia la felice: Arabia foelix\nArabes pueblos de alli: Arabes, um\n(p. 19)",
-          "Gentilicios": "arabica cosa: aảrabǐ, aảrabiǐn / ʿarabiyy, ʿarabiyyīn \narabigo: muztaảrabǐ, ǐn / mustaʿarabiyy, -īn",
+          "Gentilicios": "arabica cosa: aảrabǐ, aảrabiǐn / ʿarabiyy, ʿarabiyyīn \narabigo: muztaảrabǐ, ǐn / mustaʿarabiyy, <i>-īn</i>",
           "Nota / Información": "Cuesta delimitar con precisión la ubicación de este término. Mientras que su fuente fundamental, el diccionario de Nebrija, precisa tres topónimos en latín para Arabia: uno como región de Asia, otro para la Arabia Desierta y otro para la Arabia Feliz, Pedro de Alcalá ofrece tan solo la entrada «Arabia region». Entendiendo que tal vez bajo el primer término de Nebrija se subsumían los dos siguientes, o que, en todo caso, en el hecho de que P. de Alcalá retome sólo la idea con topónimo subyace una idea de área que abarca al resto, ofrecemos una localización más general que sirva de punto más céntrico a modo orientativo siguiendo las coordenadas del AWGS. En todo caso, los límites llegan a modificarse sustancialmente en función del tiempo y de la idea que tomemos de referencia, baste ver la definición de Covarrubias como «vna region entre Iudea y Egipto, dicha assi de Arabo hijo de Apolo. Ponen tres Arabias [:] Felix, Petrea, Deserta [...]» (Covarrubias, Tesoro de la lengua castellana o española, 1611, 162)."
         },
         "cart": {
@@ -1115,7 +1115,7 @@
           "Nombre en la fuente": "Asturia",
           "Reconstrucción del equivalente árabe": "أستورية / Aztūriya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Asturia region de España: Asturia, ae\nAsturiano ombre de alli: astur, asturis\n(p. 23)",
-          "Gentilicios": "asturiano: azturǐ, ǐn / astūriyy, -īn",
+          "Gentilicios": "asturiano: azturǐ, ǐn / astūriyy, <i>-īn</i>",
           "Nota / Información": "Se utilizan para la geolocalización de esta ubicación las coordenadas de Pleiades. "
         },
         "cart": {
@@ -1132,9 +1132,9 @@
           43.55899
         ],
         "labels": {
-          "Árabe reconstruido / transcripción reconstruida": "أبليّ / Abiliyy, -īn",
+          "Árabe reconstruido / transcripción reconstruida": "أبليّ / Abiliyy, <i>-īn</i>",
           "Árabe reconstruido": "أبليّ",
-          "Transcripción reconstruida": "Abiliyy, -īn",
+          "Transcripción reconstruida": "Abiliyy, <i>-īn</i>",
           "Nombre en la fuente / equivalente": "Auiles",
           "Transcripción original": "Auilǐ, auiliǐn",
           "Nombre actual / identificación": "Aviles"
@@ -1144,7 +1144,7 @@
         "phil": {
           "Transcripción original": "Auilǐ, auiliǐn",
           "Nombre en la fuente": "Auiles",
-          "Reconstrucción del equivalente árabe": "أبليّ / Abiliyy, -īn",
+          "Reconstrucción del equivalente árabe": "أبليّ / Abiliyy, <i>-īn</i>",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "–",
           "Nota / Información": "Las coordenadas empleadas en esta localización son las que se proponen en el AWGS."
         },
@@ -1475,7 +1475,7 @@
           "Nombre en la fuente": "Bretaña",
           "Reconstrucción del equivalente árabe": "برطانية / Briṭānia",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Bretones pueblos: brito, britonis\nBretaña region de Francia\n(p. 33)",
-          "Gentilicios": "breto[n] d[e] Bretaña: bretrǎni, ǐn / briṭāniyy, -īn"
+          "Gentilicios": "breto[n] d[e] Bretaña: bretrǎni, ǐn / briṭāniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -2.83333; latitud: 48.16667"
@@ -1534,7 +1534,7 @@
           "Nombre en la fuente": "Caçorla villa",
           "Reconstrucción del equivalente árabe": "كسترلة / Kasturla",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Caçorla villa de España: Castaon, onis\ncaçorles cosa de alli: castaonensis, e\n(p. 35)",
-          "Gentilicios": "caçorles cosa de alli: caçtorlǐ, caztorliǐn / kasturliyy, -īn"
+          "Gentilicios": "caçorles cosa de alli: caçtorlǐ, caztorliǐn / kasturliyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -3.0028; latitud: 37.91315"
@@ -1564,7 +1564,7 @@
           "Nombre en la fuente": "Caleç isla de España",
           "Reconstrucción del equivalente árabe": "قادس / Qādis",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Calez isla de España: Gades, Gadium\nCalez esta mesma isla: Erythrea, ae\ncalezano cosa de Calez: gaditanus, a, um\nCalez ciudad desta isla: Gaddir, iris \n(p. 37)",
-          "Gentilicios": "calezano cosa d[e] ally: cadiçǐ / qādisiyy, -īn"
+          "Gentilicios": "calezano cosa d[e] ally: cadiçǐ / qādisiyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -6.29312; latitud: 36.529277"
@@ -1594,7 +1594,7 @@
           "Nombre en la fuente": "Callar cibdad de Cerdeña",
           "Reconstrucción del equivalente árabe": "كاليار / Kālyār",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Callar ciudad de Cerdeña: Caralis, is\nCallares cosa desta ciudad: caralitanus, a, um\n(p. 37)",
-          "Gentilicios": "callares cosa desta cibdad: callarǐ, callariǐn / kālyāriyy, -īn"
+          "Gentilicios": "callares cosa desta cibdad: callarǐ, callariǐn / kālyāriyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 9.109522; latitud: 39.214886"
@@ -1655,7 +1655,7 @@
           "Reconstrucción del equivalente árabe": "قلعة أيّوب / Qalaʿat Ayyūb",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Calataiud ciudad de Aragon: Bilbilis, is\ncalataiudano cosa de alli: bilbilitanus, a, um\n(p. 36)",
           "Gentilicios": "calatayudano: calaảtayǔbi, calaảtayubiǐn / qalaʿat ayyūbiyy, qalaʿat ayyūbiyyīn",
-          "Nota / Información": "En Zaragoza, Qalaʿat Ayyūb (‘castillo de Ayyūb’, por Ayyūb ibn Ḥabīb al-Laḥmī) (Asín Palacios, «Calatayud», en Contribución a la toponimia árabe de España, p. 99)."
+          "Nota / Información": "En Zaragoza, Qalaʿat Ayyūb (‘castillo de Ayyūb’, por Ayyūb ibn Ḥabīb al-Laḥmī) (Asín Palacios, «Calatayud», en <i>Contribución a la toponimia árabe de España</i>, p. 99)."
         },
         "cart": {
           "Coordenadas": "Longitud: -1.603219; latitud: 41.38201"
@@ -1892,7 +1892,7 @@
           "Nombre en la fuente": "Carmona villa",
           "Reconstrucción del equivalente árabe": "قرمونة / Qarmūna",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Carmona villa del Andaluzia: Carmonia\ncarmones cosa de alli: carmoniensis, e\n(p. 41)",
-          "Gentilicios": "carmones cosa de ally: carmǒni, carmoniǐn / qarmūniyy, -īn"
+          "Gentilicios": "carmones cosa de ally: carmǒni, carmoniǐn / qarmūniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -5.646468; latitud: 37.470304"
@@ -1922,7 +1922,7 @@
           "Nombre en la fuente": "Cartagena en España",
           "Reconstrucción del equivalente árabe": "قرطاجنّة / Qarṭāǧanna",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Cartagena en España: Cartago Sparraria [sic., «Spartaria» según Covarrubias, Tesoro, 1611, p. 412]\ncartagines cosa d[e]stas ciudades: carthaginens\n(p. 42)",
-          "Gentilicios": "cartagines cosa d[e]stas ciudades [Cartagena y Cartago]: cartajěni, cartejeniǐn / qarṭaǧinniyy, -īn"
+          "Gentilicios": "cartagines cosa d[e]stas ciudades [Cartagena y Cartago]: cartajěni, cartejeniǐn / qarṭaǧinniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -0.987953; latitud: 37.602787"
@@ -1952,7 +1952,7 @@
           "Nombre en la fuente": "Cartago e[n] Africa",
           "Reconstrucción del equivalente árabe": "قرطاج، طنجة / Qarṭāǧ, Ṭanǧa",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Cartagena en Africa: Cartago, inis\ncartagines cosa d[e]stas ciudades: carthaginens\n(p. 42)",
-          "Gentilicios": "cartagines cosa d[e]stas ciudades [Cartagena y Cartago]: cartajěni, cartejeniǐn / qarṭaǧinniyy, -īn"
+          "Gentilicios": "cartagines cosa d[e]stas ciudades [Cartagena y Cartago]: cartajěni, cartejeniǐn / qarṭaǧinniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 10.318; latitud: 36.850032"
@@ -2011,7 +2011,7 @@
           "Nombre en la fuente": "Castilla la uieja",
           "Reconstrucción del equivalente árabe": "قشيلّة القديمة / Qašīlla al-qadīma",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Castilla: Hispania, ae; Hesperia, ae; Iberia, ae\nCastilla la vieja: Hispania Tarraconensis\n(p. 43)",
-          "Gentilicios": "castellano cosa de Castilla: cachǐlli, cachilliǐn / qašīlliyy, -īn",
+          "Gentilicios": "castellano cosa de Castilla: cachǐlli, cachilliǐn / qašīlliyy, <i>-īn</i>",
           "Nota / Información": "Qasṭāla (Pezzi, El vocabulario de Pedro de Alcalá, p. 735)"
         },
         "cart": {
@@ -2042,7 +2042,7 @@
           "Nombre en la fuente": "Castilla nueua [la nueva]",
           "Reconstrucción del equivalente árabe": "قشيلّة الجديدة / Qašīlla al-yadīda",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Castilla: Hispania, ae; Hesperia, ae; Iberia, ae\nCastilla la nueva: Hispania ulterior\n(p. 43)",
-          "Gentilicios": "castellano cosa de Castilla: cachǐlli, cachilliǐn / qašīlliyy, -īn",
+          "Gentilicios": "castellano cosa de Castilla: cachǐlli, cachilliǐn / qašīlliyy, <i>-īn</i>",
           "Nota / Información": "Qasṭāla (Pezzi, El vocabulario de Pedro de Alcalá, p. 735)"
         },
         "cart": {
@@ -2191,7 +2191,7 @@
           "Nombre en la fuente": "Cesena cibdad de Ytalia",
           "Reconstrucción del equivalente árabe": "سسينة / Sisīna",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Cesena ciudad de Italia: Cesena, ae\ncesenes cosa desta ciudad: cesenas, atis\n(p. 60)",
-          "Gentilicios": "cesenes cosa desta ciudad: cesenǐ, ceseniǐn / sisiniyy, -īn"
+          "Gentilicios": "cesenes cosa desta ciudad: cesenǐ, ceseniǐn / sisiniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 12.241174; latitud: 44.136017"
@@ -2221,7 +2221,7 @@
           "Nombre en la fuente": "Ciguença cibdad",
           "Reconstrucción del equivalente árabe": "سونسة / Siwansa",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Ciguença ciudad de Castilla: Secontia, ae\nciguençano cosa de alli: secontinus, a, um\n(p. 61)",
-          "Gentilicios": "ciguençano cosa de alli: çiguencǐ, cinguenciǐn / siwansiyy, -īn"
+          "Gentilicios": "ciguençano cosa de alli: çiguencǐ, cinguenciǐn / siwansiyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -2.64308; latitud: 41.06892"
@@ -2400,7 +2400,7 @@
           "Nombre en la fuente": "Cordoua cibdad",
           "Reconstrucción del equivalente árabe": "قرطبة / Qurṭuba",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Cordova ciudad del Andaluzia: Corduba, ae\ncordoves cosa desta ciudad: cordubensis, e\n(p. 51)",
-          "Gentilicios": "cordoues cosa desta ciudad: cortubǐ, cortubiǐn / qurṭubiyy, -īn"
+          "Gentilicios": "cordoues cosa desta ciudad: cortubǐ, cortubiǐn / qurṭubiyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -4.776014; latitud: 37.884581"
@@ -2430,7 +2430,7 @@
           "Nombre en la fuente": "Coria cibdad",
           "Reconstrucción del equivalente árabe": "كورية / Kuriya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Coria ciudad de Castilla: Caurium\ncoriano cosa desta ciudad: cauriensis, e\n(p. 51)",
-          "Gentilicios": "coriano cosa desta ciudad: coriǐ, coriǐn / kuriyy, -īn"
+          "Gentilicios": "coriano cosa desta ciudad: coriǐ, coriǐn / kuriyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -6.53668; latitud: 39.983157"
@@ -2489,7 +2489,7 @@
           "Nombre en la fuente": "Çalamea villa d[e]la Serena",
           "Reconstrucción del equivalente árabe": "سلميّة / Salamiyya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Çalamea villa dela Serena: Iulipe[n]se municipiu[m]\n(p. 57)",
-          "Nota / Información": "Salamiyya (‘saludable’), con ubicación en Badajoz y en Huelva (Asín Palacios, «Zalamea», en Contribución a la toponimia árabe de España, p. 144)"
+          "Nota / Información": "Salamiyya (‘saludable’), con ubicación en Badajoz y en Huelva (Asín Palacios, «Zalamea», en <i>Contribución a la toponimia árabe de España</i>, p. 144)"
         },
         "cart": {
           "Coordenadas": "Longitud: -6.65977; latitud: 37.68012"
@@ -2519,7 +2519,7 @@
           "Nombre en la fuente": "Çamora cibdad",
           "Reconstrucción del equivalente árabe": "سمّورة / Sammūra",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Çamora ciudad de Castilla: Ocelum, i\nçamorano cosa de alli: ocelensis, e\n(p. 57)",
-          "Gentilicios": "çamorano cosa de ally: çamǒri, çamoriǐn / sammūriyy, -īn"
+          "Gentilicios": "çamorano cosa de ally: çamǒri, çamoriǐn / sammūriyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -5.74112; latitud: 41.50705"
@@ -2549,7 +2549,7 @@
           "Nombre en la fuente": "Çaragoça cibdad de Aragon",
           "Reconstrucción del equivalente árabe": "سرقسطة / Saraqusṭa",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Çaragoça ciudad de Aragon: Caesarea augusta\nÇaragoça esta antigua mente\nçaragoçano cosa de alli: caesaragustanus\nÇaragoça ciudad de Sicilia: Syracusae, arum\nçaragoçano cosa de alli: syracusanus, a, um\nçaragoçano cosa de alli: syracusius, a, um\n(p. 58)",
-          "Gentilicios": "Çaragoça antiguame[n]te: Jaảfarǐa / Ǧaʿfariyya\nçaragoçano cosa de alli: çaracǒzti, çaracostiǐn / saraqusṭiyy, -īn"
+          "Gentilicios": "Çaragoça antiguame[n]te: Jaảfarǐa / Ǧaʿfariyya\nçaragoçano cosa de alli: çaracǒzti, çaracostiǐn / saraqusṭiyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -0.88114; latitud: 41.65183"
@@ -2639,7 +2639,7 @@
           "Nombre en la fuente": "Damasco cibdad de Siria",
           "Reconstrucción del equivalente árabe": "دمشق / Dimašq",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Damasco ciudad de Siria: Damascus, i\nDamasco seda: sericum damascenum\nDamasco cosa de Damasco: damascenus, a, um\n(p. 63)",
-          "Gentilicios": "damasco seda: atlǎç / al-ṭirāz\ndamasco cosa de Damasco: dimaxquǐ, dimaxquǐn / dimašqiyy, -īn"
+          "Gentilicios": "damasco seda: atlǎç / al-ṭirāz\ndamasco cosa de Damasco: dimaxquǐ, dimaxquǐn / dimašqiyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 36.29128; latitud: 33.5102"
@@ -2845,7 +2845,7 @@
           "Nombre en la fuente": "Egipto region",
           "Reconstrucción del equivalente árabe": "مصر / Miṣr",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Egipto region de Africa: Aegyptus, i\negipciana cosa: aegyptius, a, um\negipciana cosa fuera de alli: aegyptiacus, a, um\n(p. 82)",
-          "Gentilicios": "egiciana cosa: mizrǐ, ǐn / miṣriyy, -īn"
+          "Gentilicios": "egiciana cosa: mizrǐ, ǐn / miṣriyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 29.870495; latitud: 26.512273"
@@ -2963,7 +2963,7 @@
           "Nombre en la fuente": "Esclauonia region",
           "Reconstrucción del equivalente árabe": "إسقلبونيّة / Isqlabūniyya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Esclavonia region de Europa: Illyria\nEsclavona cosa de alli: illyricus, a, um\n(p. 93)",
-          "Gentilicios": "esclauona cosa de alli: esclauonǐ, esclauoniǐn / isqlabūniyy, -īn",
+          "Gentilicios": "esclauona cosa de alli: esclauonǐ, esclauoniǐn / isqlabūniyy, <i>-īn</i>",
           "Nota / Información": "Saqlabūniyya (Pezzi, El vocabulario de Pedro de Alcalá, p. 736)"
         },
         "cart": {
@@ -3527,7 +3527,7 @@
           "Nombre en la fuente": "Ingalaterra isla ocidental, Ingalaterra antiguo nonbre",
           "Reconstrucción del equivalente árabe": "إنجلترة / Inǧalatira",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Inglaterra isla ocidental: Britannia, ae\nInglaterra antiguo nombre: Albion, onis\nInglaterra nuevo nombre: Anglia, ae\ninglesa cosa de alli: britannia, ae\n(p. 116)",
-          "Gentilicios": "Ingalaterra antiguo nonbre: Ingalaterra / Inǧalatira \ninglesa cosa: ingli, ingliǐn / inǧiliyy, -īn"
+          "Gentilicios": "Ingalaterra antiguo nonbre: Ingalaterra / Inǧalatira \ninglesa cosa: ingli, ingliǐn / inǧiliyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -2.0; latitud: 54.0"
@@ -4212,7 +4212,7 @@
           "Nombre en la fuente": "Mantua cibdad",
           "Reconstrucción del equivalente árabe": "منتوا / Mantuwā",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Mantua ciudad de Italia: Mantua, ae \nmantuano cosa desta ciudad: ma[n]tuanus, a, u[m]\n(p. 128)",
-          "Gentilicios": "mantuano cosa de alli: mantuǎni, mantuaniǐn / mantuwāniyy, -īn"
+          "Gentilicios": "mantuano cosa de alli: mantuǎni, mantuaniǐn / mantuwāniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 10.79242; latitud: 45.16541"
@@ -4537,7 +4537,7 @@
           "Nombre en la fuente": "Monuiedro cibdad",
           "Reconstrucción del equivalente árabe": "منبيدر / Munbīdr(u)",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Monviedro ciudad de Aragon: Saguntus, i\nmonviedres cosa deste lugar: Sagu[n]tinus, a, u[m]\n(p. 136)",
-          "Gentilicios": "monuiedres cosa deste lugar: monbidri, ǐn / munbīdriyy, -īn"
+          "Gentilicios": "monuiedres cosa deste lugar: monbidri, ǐn / munbīdriyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -0.27837; latitud: 39.68001"
@@ -4626,7 +4626,7 @@
           "Nombre en la fuente": "Narbona cibdad",
           "Reconstrucción del equivalente árabe": "نربونة / Narbūna",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Narbona ciudad de Proença: Narbo, onis\nnarbones cosa desta ciudad: narbonensis, e\n(p. 139)",
-          "Gentilicios": "narbones cosa d[e]sta cibdad: narbonǐ, narboniǐn / narbūniyy, -īn"
+          "Gentilicios": "narbones cosa d[e]sta cibdad: narbonǐ, narboniǐn / narbūniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 3.00381; latitud: 43.18387"
@@ -5069,7 +5069,7 @@
           "Nombre en la fuente": "Padua cibdad d[e] Ytalia",
           "Reconstrucción del equivalente árabe": "بادوة / Bāduwa",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Padua ciudad de Italia: Patauium, ii\n(p. 147)",
-          "Gentilicios": "paduano cosa d[e] alli: paduanǐ, paduaniǐn / bāduwaniyy, -īn"
+          "Gentilicios": "paduano cosa d[e] alli: paduanǐ, paduaniǐn / bāduwaniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 11.873446; latitud: 45.407717"
@@ -5484,7 +5484,7 @@
           "Transcripción original": "[Portugal]",
           "Reconstrucción del equivalente árabe": "برطقال / Burṭuqāl",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Portogal: Lusitania Maritima\nportogues cosa de Portogal: lusitanus, a, u[m]\n(p. 157)",
-          "Gentilicios": "portogues cosa d[e] Portugal: portocǎli, portocaliǐn / burṭuqāliyy, -īn"
+          "Gentilicios": "portogues cosa d[e] Portugal: portocǎli, portocaliǐn / burṭuqāliyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: -8.135352; latitud: 39.662165"
@@ -5721,7 +5721,7 @@
           "Nombre en la fuente": "Roma cibdad p[ri]ncipal",
           "Reconstrucción del equivalente árabe": "رومة / Rūma",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Roma ciudad conocida: Roma, ae\nromano cosa de alli: romanus, a, um\nromano: romanicus, a, um; romanensis\n(p. 172)",
-          "Gentilicios": "romano cosa de alli: rǒmi, romiǐn / rūmiyy, rūmiyyīn\nromano: romǎni, ǐn / rumāniyy, -īn"
+          "Gentilicios": "romano cosa de alli: rǒmi, romiǐn / rūmiyy, rūmiyyīn\nromano: romǎni, ǐn / rumāniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 12.51133; latitud: 41.89193"
@@ -6165,7 +6165,7 @@
           "Nombre en la fuente": "Sicilia ysla de nuestro mar",
           "Reconstrucción del equivalente árabe": "صقلّيّة / Ṣiqilliyya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Sicilia isla maior de nuestro mar: Sicilia, ae\nsiciliana cosa: siculus, a, um; siciliensis, e\nsiciliana cosa assi: trinacrius, a, um\nsiciliana cosa hembra: sicilis, idis\n(p. 180)",
-          "Gentilicios": "Sicilia esta mesma: Sicilia /  \nsiciliana cosa: ciquǐli, ciquiliǐn / ṣiqilliyy, -īn"
+          "Gentilicios": "Sicilia esta mesma: Sicilia /  \nsiciliana cosa: ciquǐli, ciquiliǐn / ṣiqilliyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 13.989162; latitud: 37.624097"
@@ -6465,7 +6465,7 @@
           "Reconstrucción del equivalente árabe": "طريف / Ṭarīf",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Tarifa villa del Andaluzia\n(p. 186)",
           "Gentilicios": "tarifo de ally: tarǐfi, tarifiǐn / ṭarifiyy, ṭarifiyyīn",
-          "Nota / Información": "En Cádiz, en la geografía e historia árabes recibe el nombre de madīnat Ṭarīf (‘ciudad de Ṭarīf’) o ǧazīrat Ṭarīf (‘península de Ṭarīf’) (Asín Palacios, «Tarifa», en Contribución a la toponimia árabe de España, p. 136)",
+          "Nota / Información": "En Cádiz, en la geografía e historia árabes recibe el nombre de madīnat Ṭarīf (‘ciudad de Ṭarīf’) o ǧazīrat Ṭarīf (‘península de Ṭarīf’) (Asín Palacios, «Tarifa», en <i>Contribución a la toponimia árabe de España</i>, p. 136)",
           "Vocalización y variantes en fuentes árabes": "madīnat Ṭarīf o ǧazīrat Ṭarīf (Asín Palacios, Contribución…, p. 136)"
         },
         "cart": {
@@ -6824,7 +6824,7 @@
           "Nombre en la fuente": "Toscana regio[n] de Ytalia",
           "Reconstrucción del equivalente árabe": "تسقانة / Tusqāna",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Toscana region de Italia: Tuscia, Aethruria\n(p. 190)",
-          "Gentilicios": "toscan cosa de alli: toscǎni, toscaniǐn / tusqāniyy, -īn"
+          "Gentilicios": "toscan cosa de alli: toscǎni, toscaniǐn / tusqāniyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 11.689503; latitud: 42.634472"
@@ -6884,7 +6884,7 @@
           "Nombre en la fuente": "Temece[n] reyno de Africa",
           "Reconstrucción del equivalente árabe": "تلمسان / Tilimsān",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Tremece reino de Africa: Mauritania Cesarien[s]\n(p. 192)",
-          "Vocalización y variantes en fuentes árabes": "Tilimsān (al-Yaʿqūbī, 196; al-Bakrī, I, 319, II, 745-748/751/804/829-830; Al-istibṣār..., I, 234; al-Idrīsī, II, 1001; Yāqūt, VII, 475; al-Qazwīnī, 172; Ṣafī al-Dīn al-Baġdādī, I, 108/126/204/248/251/272, II, 653; III, 1446/1466; Ibn Faḍl Allāh al-ʿUmarī, IV, 152-154/169/172/174/177/184/186-187/189/190/192/202-206/222/394/423, V, 755, XXVII, 53/267-268/354; Ibn Baṭṭūṭa, V, 80; Ibn Ḫaldūn, 92-94/96-99/108/118-124/126/134/180/185-187/264-267/271/290; al-Maqrīzī, I, 315; al-Ḥimyarī, 12/20/26/51/126-129/135-136/174/318/440/597/607)"
+          "Vocalización y variantes en fuentes árabes": "Tilimsān (al-Yaʿqūbī, 196; al-Bakrī, I, 319, II, 745-748/751/804/829-830; <i>Al-istibṣār…</i>, I, 234; al-Idrīsī, II, 1001; Yāqūt, VII, 475; al-Qazwīnī, 172; Ṣafī al-Dīn al-Baġdādī, I, 108/126/204/248/251/272, II, 653; III, 1446/1466; Ibn Faḍl Allāh al-ʿUmarī, IV, 152-154/169/172/174/177/184/186-187/189/190/192/202-206/222/394/423, V, 755, XXVII, 53/267-268/354; Ibn Baṭṭūṭa, V, 80; Ibn Ḫaldūn, 92-94/96-99/108/118-124/126/134/180/185-187/264-267/271/290; al-Maqrīzī, I, 315; al-Ḥimyarī, 12/20/26/51/126-129/135-136/174/318/440/597/607)"
         },
         "cart": {
           "Coordenadas": "Longitud: -1.315; latitud: 34.87833"
@@ -7006,8 +7006,8 @@
           "Nombre en la fuente": "Tuneç cibdad de Africa",
           "Reconstrucción del equivalente árabe": "تونس / Tūnis",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Tunez ciudad de Africa: Tynes, etis\nTunez esta mesma: Tunes, etis\n(p. 194)",
-          "Gentilicios": "tuneç cosa de ally: tuneçǐ, tuneciǐn / tūnisiyy, -īn",
-          "Vocalización y variantes en fuentes árabes": "Tūnis (Ibn Ḫurradāḏbih, 87/114; al-Yaʿqūbī, 187-188/192; al-Karḫī, 33/46; Ibn Ḥawqal, I, 61/63/73-74; Ḥudūd…, 180; Al-ʿAzīzī, 48; al-Bakrī, II, 675-678/693-699/704/705; Al-istibṣār..., I, 234; al-Idrīsī, II, 1002; Ibn Ğubayr, 275; Yāqūt, VII, 477; al-Qazwīnī, 173-174; Ibn Saʿīd, 27/36/37/50; Ṣafī al-Dīn al-Baġdādī, I, 121/225/258/282/445, II, 593,667, III, 1078/1347/1394; Ibn Faḍl Allāh al-ʿUmarī, XXVII, 605; Ibn Baṭṭūṭa, V, 81; Ibn Ḫaldūn, 188/189/190/196/198/199/201/203/226/244/265/266/267/271; al-Maqrīzī, I, 301, 413; al-Ḥimyarī, 143)"
+          "Gentilicios": "tuneç cosa de ally: tuneçǐ, tuneciǐn / tūnisiyy, <i>-īn</i>",
+          "Vocalización y variantes en fuentes árabes": "Tūnis (Ibn Ḫurradāḏbih, 87/114; al-Yaʿqūbī, 187-188/192; al-Karḫī, 33/46; Ibn Ḥawqal, I, 61/63/73-74; Ḥudūd…, 180; Al-ʿAzīzī, 48; al-Bakrī, II, 675-678/693-699/704/705; <i>Al-istibṣār…</i>, I, 234; al-Idrīsī, II, 1002; Ibn Ğubayr, 275; Yāqūt, VII, 477; al-Qazwīnī, 173-174; Ibn Saʿīd, 27/36/37/50; Ṣafī al-Dīn al-Baġdādī, I, 121/225/258/282/445, II, 593,667, III, 1078/1347/1394; Ibn Faḍl Allāh al-ʿUmarī, XXVII, 605; Ibn Baṭṭūṭa, V, 81; Ibn Ḫaldūn, 188/189/190/196/198/199/201/203/226/244/265/266/267/271; al-Maqrīzī, I, 301, 413; al-Ḥimyarī, 143)"
         },
         "cart": {
           "Coordenadas": "Longitud: 10.171649; latitud: 36.79923"
@@ -7222,7 +7222,7 @@
           "Nombre en la fuente": "Uenecia cibdad de Ytalia",
           "Reconstrucción del equivalente árabe": "بنيسية / Binīsiya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Venecia ciudad de Italia: Uenetiae, arum\nveneciano cosa de alli: uenetus, a, um\n(p. 199)",
-          "Gentilicios": "veneciano cosa d[e] alli: venecǐ, ǐn / binīsiyy, -īn"
+          "Gentilicios": "veneciano cosa d[e] alli: venecǐ, ǐn / binīsiyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 12.246715; latitud: 45.146627"
@@ -7283,7 +7283,7 @@
           "Nombre en la fuente": "Uincencia cibdad de Ytalia",
           "Reconstrucción del equivalente árabe": "بنسنتية / Binsintiya",
           "Entradas relacionadas en el Vocabulario de Nebrija (1495)": "Vincenzia ciudad de Italia: Uincentia, ae\nvincentino cosa de alli: uincentinus, a, um\n(p. 201)",
-          "Gentilicios": "uincentino cosa de alli: vincentǐ, vincentiǐn / binsintiyy, -īn"
+          "Gentilicios": "uincentino cosa de alli: vincentǐ, vincentiǐn / binsintiyy, <i>-īn</i>"
         },
         "cart": {
           "Coordenadas": "Longitud: 11.540277; latitud: 45.545773"
