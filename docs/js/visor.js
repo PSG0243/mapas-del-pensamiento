@@ -131,7 +131,9 @@ async function iniciarVisor() {
       const d=dataset(),relations=selectedRelations();
       return d.features.filter(f=>(d.id!=='alcala'||(!$('additions').checked&&!$('reductions').checked)||($('additions').checked&&f.addition===true)||($('reductions').checked&&f.reduced===true))&&(d.id!=='ecchellensis'||!relations.length||(!f.doubt&&relations.some(r=>(f.qamus_relations||[]).includes(r)))))
     };
-    const labelText=f=>String(f.labels[$('label').value]??'Forma no consignada');
+    const labelRaw = f =>
+      String(f.labels[$('label').value] ?? 'Forma no consignada');
+    const labelText = f => sinCursivas(labelRaw(f));
     function labelHTML(f){
       return labelText(f).split(/([\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff]+(?:[\s\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff]*[\u0600-\u06ff])?)/g).map(t=>/[\u0600-\u06ff]/.test(t)?'<bdi class="arabic">'+esc(t)+'</bdi>':esc(t)).join('')
     }
@@ -187,7 +189,7 @@ async function iniciarVisor() {
       panel.replaceChildren();
       const h = document.createElement('h2');
       h.dir = 'auto';
-      linked(h, labelText(f));
+      linked(h, labelRaw(f));
       panel.append(h);
       const sub=document.createElement('div');
       sub.className='muted';
