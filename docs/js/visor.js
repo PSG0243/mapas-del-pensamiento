@@ -112,11 +112,10 @@ async function iniciarVisor() {
       points=L.layerGroup().addTo(map);
       names=L.layerGroup().addTo(map);
       geo=L.geoJSON(LAND,{
-        pane:'base',interactive:false,style:{
+        pane:'base',interactive:false,attribution:'Mapa base: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener noreferrer">Natural Earth</a> (dominio público)',style:{
           color:'#aab8b8',weight:.7,fillColor:'#f1f0e9',fillOpacity:1
         }
       }).addTo(map);
-      map.attributionControl.addAttribution('Base clara: Natural Earth');
       map.on('moveend zoomend resize',()=>requestAnimationFrame(collisions))
     } else{
       $('map').textContent='No se pudo cargar Leaflet. Comprueba la conexión. Las fichas siguen accesibles en el listado.'
@@ -409,7 +408,7 @@ async function iniciarVisor() {
         return
       }
       const layer=L.tileLayer('https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2024_3857/default/GoogleMapsCompatible/{z}/{y}/{x}.jpg',{
-        pane:'base',crossOrigin:true,maxNativeZoom:13,maxZoom:19,attribution:'EOxCloudless <a href="https://cloudless.eox.at">https://cloudless.eox.at</a> by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2024) · <a href="https://cloudless.eox.at/license-non-commercial">CC BY-NC-SA 4.0</a>'
+        pane:'base',crossOrigin:true,maxNativeZoom:13,maxZoom:19,attribution:'© Mapa base: <a href="https://cloudless.eox.at/" target="_blank" rel="noopener noreferrer">EOxCloudless</a> by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2024) | <a href="https://cloudless.eox.at/license-non-commercial" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>'
       });
       tiles=layer;
       let failed=false;
@@ -698,7 +697,7 @@ async function iniciarVisor() {
         const title=document.querySelector('header h1').textContent.trim()+' — '+$('title').textContent.trim();
         const metadata=document.querySelector('header .muted').textContent.trim();
         const legend=document.querySelector('.legend').textContent.trim();
-        const source=tiles?map.attributionControl.getContainer().textContent.replace(/\s+/g,' ').trim():'Base clara (Natural Earth)';
+        const source=map.attributionControl.getContainer().textContent.replace(/\s+/g,' ').trim();
         const count=$('status').textContent.trim();
         c.font='26px Arial';
         const titleLines=exportLines(c,title,textWidth);
