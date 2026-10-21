@@ -9,13 +9,12 @@
     <link rel="stylesheet" href="./css/visor.css">
   </head>
   <body>
-    <body>
       <header>
         <h1>Mapas del pensamiento: toponimia en obras filológicas orientalistas</h1>
         <div id="title">
         </div>
         <div class="muted">
-          Visor cartográfico de la toponimia en obras filológicas orientalistas (Versión 1.0) — Patricia Carina Sánchez-García | 13 de octubre de 2026
+          Visor cartográfico de la toponimia en obras filológicas orientalistas (Versión 1.0) | Patricia Carina Sánchez-García | Publicado el 13 de octubre de 2026
         </div>
       </header>
       <section id="introduction">
@@ -57,6 +56,7 @@
               <label><input id="reductions" type="checkbox"/> Entradas reducidas respecto al
               <i>Vocabulario</i> de Nebrija (1495)</label>
               <p class="muted" id="additionHint"></p>
+              <p class="muted"> Sin casillas marcadas se consulta el repertorio completo.</p>
             </div>
             <button id="resetFilters">Restablecer filtros</button>
           </div>
@@ -65,8 +65,7 @@
             <label>Tipo de etiqueta<select id="label"></select></label>
             <label><input checked="" id="labels" type="checkbox"/> Mostrar etiquetas</label>
             <label><input checked="" id="showPoints" type="checkbox"/> Mostrar puntos</label>
-            <label>Distribución<select id="layout"><option value="adaptive">Adaptativa (sin solapamiento de
-            etiquetas)</option><option value="all">Mostrar todas</option></select></label>
+            <label>Distribución de etiquetas<select id="layout"><option value="adaptive">Adaptativa (sin solapamiento)</option><option value="all">Mostrar todas (con solapamiento)</option></select></label>
             <label>Mapa de fondo<select id="base"><option value="clear">Base clara (Natural
             Earth)</option><option value="satellite">Satélite (EOX Sentinel Cloudless
             2024)</option></select></label>
@@ -113,7 +112,7 @@
         </main>
       </div>
       <div class="legend">
-        Negro: punto/área | Azul: zonas de agua | Naranja: punto de dudosa identificación (si hay número, atribuye una posible prioridad de identificación), no afecta al mapa de calor | Magenta: resultados de búsqueda textual.
+        Negro: punto/área | Azul: zonas de agua | Naranja: punto de dudosa identificación (si hay un número, atribuye una posible prioridad de identificación), se excluye del cálculo del mapa de calor | Magenta: resultados de búsqueda textual.
       </div>
       <section>
         <details open="">
@@ -1016,7 +1015,9 @@
             <button aria-selected="false" data-format="MLA" role="tab">MLA</button>
             <button aria-selected="false" data-format="Chicago" role="tab">Chicago</button>
           </div>
+          <div class="cuadro-cita">
           <div id="citation" role="tabpanel">
+          </div>
           </div>
           <button aria-label="Copiar cita" id="copy">⧉ Copiar cita</button>
           <span id="copyStatus" role="status"></span>
@@ -1069,6 +1070,5 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
       <script src="./js/visor.js" defer></script>
-    </body>
   </body>
 </html>
