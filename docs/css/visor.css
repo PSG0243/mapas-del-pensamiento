@@ -445,3 +445,9 @@ summary.group-title,.config>summary.group-title {
   border-color: #af071f;
   color: #7b1723;
 }
+#ilcLogo {
+  max-width: min(180px, 100%);
+  max-height: 70px;
+  width: auto;
+  height: auto;
+}
