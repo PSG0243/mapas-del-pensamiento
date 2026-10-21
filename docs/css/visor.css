@@ -221,11 +221,15 @@ summary.group-title {
   border: 2px solid #9c2477
 }
 #citation {
-  background: #fff;
-  border-radius: 12px;
-  padding: 14px;
-  line-height: 1.5;
-  overflow-wrap: anywhere
+  margin: 12px 0;
+  padding: 16px 18px;
+  border: 1px solid #cbd5d1;
+  border-left: 4px solid #647b75;
+  border-radius: 8px;
+  background: #f8faf9;
+  color: var(--text);
+  line-height: 1.6;
+  overflow-wrap: anywhere;
 }
 .tabs {
   display: flex;
@@ -412,9 +416,7 @@ summary.group-title,.config>summary.group-title {
 #citation i {
   font-style: italic
 }
-#citation i {
-  font-style: italic;
-}
+
 /* Estilos del aviso de licencia */ .license-notice {
   max-width: 900px;
   margin: 20px auto 0;
