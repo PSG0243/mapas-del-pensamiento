@@ -451,3 +451,6 @@ summary.group-title,.config>summary.group-title {
   width: auto;
   height: auto;
 }
+.card p i {
+  font-style: italic;
+}
