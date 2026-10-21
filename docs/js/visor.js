@@ -65,7 +65,11 @@ async function iniciarVisor() {
 
     // Código original: conserva funciones, criterios y operaciones del visor.
     const $=id=>document.getElementById(id);
-    const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+    const sinCursivas = s => String(s ?? '').replace(/<\/?i>/g, '');
+    const norm = s => sinCursivas(s)
+  .normalize('NFD')
+  .replace(/[\u0300-\u036f]/g, '')
+  .toLowerCase();
     const esc=s=>String(s).replace(/[&<>"']/g,c=>({
       '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
     }
@@ -131,7 +135,7 @@ async function iniciarVisor() {
     function labelHTML(f){
       return labelText(f).split(/([\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff]+(?:[\s\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff]*[\u0600-\u06ff])?)/g).map(t=>/[\u0600-\u06ff]/.test(t)?'<bdi class="arabic">'+esc(t)+'</bdi>':esc(t)).join('')
     }
-    function linked(el,value){
+    function linkedTexto(el,value){
       const s=String(value),re=/https?:\/\/[^\s<>«»]+/g;
       let start=0,m;
       while((m=re.exec(s))){
@@ -147,6 +151,24 @@ async function iniciarVisor() {
       }
       el.append(document.createTextNode(s.slice(start)))
     }
+    function linked(el, value) {
+  const texto = String(value);
+  const patron = /<i>([\s\S]*?)<\/i>/g;
+  let inicio = 0;
+  let coincidencia;
+
+  while ((coincidencia = patron.exec(texto)) !== null) {
+    linkedTexto(el, texto.slice(inicio, coincidencia.index));
+
+    const cursiva = document.createElement('i');
+    linkedTexto(cursiva, coincidencia[1]);
+    el.append(cursiva);
+
+    inicio = patron.lastIndex;
+  }
+
+  linkedTexto(el, texto.slice(inicio));
+}
     function block(title,fields,open){
       const section=document.createElement('details');
       section.open=open;
@@ -498,7 +520,9 @@ async function iniciarVisor() {
       const d=dataset(),fs=active(),wb=XLSX.utils.book_new();
       XLSX.utils.book_append_sheet(wb,XLSX.utils.json_to_sheet(fs.map(f=>Object.fromEntries(Object.entries({
         ...f.phil,...f.cart
-      }).map(([k,v])=>[k,k==='Relación con al-Qāmūs al-Muḥīṭ'?String(v).replace(/Sin correspondencia/g,'Nula'):v])))),'Datos');
+      }).map(([k,v])=>[k,k==='Relación con al-Qāmūs al-Muḥīṭ'
+  ? sinCursivas(v).replace(/Sin correspondencia/g,'Nula')
+  : sinCursivas(v)])))),'Datos');
       const dict=[...new Set(fs.flatMap(f=>Object.keys(f.phil)))].map(k=>({
         Campo:k,Bloque:'Información filológica'
       })).concat([...new Set(fs.flatMap(f=>Object.keys(f.cart)))].map(k=>({
