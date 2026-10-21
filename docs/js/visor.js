@@ -185,9 +185,9 @@ async function iniciarVisor() {
       selectedId=f.id;
       const panel=$('detail');
       panel.replaceChildren();
-      const h=document.createElement('h2');
-      h.innerHTML=labelHTML(f);
-      h.dir='auto';
+      const h = document.createElement('h2');
+      h.dir = 'auto';
+      linked(h, labelText(f));
       panel.append(h);
       const sub=document.createElement('div');
       sub.className='muted';
